@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45013082360",
+    "project_id": "admirev3-6e8af",
+    "storage_bucket": "admirev3-6e8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45013082360:android:cabd1d6adf8811d5779b0d",
+        "android_client_info": {
+          "package_name": "com.example.admirev3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45013082360-nhckd6918j1rfo42smln3bav9usuccl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWM8Glb01nKzmzc-95upoGAOJ9DfPaf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45013082360-nhckd6918j1rfo42smln3bav9usuccl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

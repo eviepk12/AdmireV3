@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AdmireV2</string>
+    <string name="already_have_an_account_login">Already have an account? <b>Sign in</b></string>
+    <string name="signed">signed</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="admired">Admired</string>
+    <string name="logout">logout</string>
+    <string name="you_re_logged_in_as">you_re_logged_in_as</string>
+    <string name="connects_us_as_a_family">Connects Us As a Family</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="man_welcoming">Man welcoming</string>
+
+    <!--Questions-->
+    <string name="a">How are you today?</string>
+    <string name="b">How are you feeling?</string>
+    <string name="c">How would you describe your mood?</string>
+    <string name="d">How would you say your feelings are?</string>
+    <string name="e">What are you feeling?</string>
+
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="username">Username</string>
+    <string name="label_profile">label_profile</string>
+</resources>
